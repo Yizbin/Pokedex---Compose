@@ -17,3 +17,5 @@ val TextoRojoTitulo = Color(0xFFE3350D)
 val TextoOscuro = Color(0xFF333333)
 val TextoGris = Color(0xFF666666)
 val TextoNumeroOscuro = Color(0x99000000)
+
+val Green = Color(0xFF81CA85)
