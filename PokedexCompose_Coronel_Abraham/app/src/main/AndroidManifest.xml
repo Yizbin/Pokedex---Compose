@@ -23,6 +23,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="components.PokedexList"
+            android:exported="true"
+            android:label="Pokedex Menu"
+            android:theme="@style/Theme.PokedexCompose_Coronel_Abraham">
+        </activity>
     </application>
 
 </manifest>
